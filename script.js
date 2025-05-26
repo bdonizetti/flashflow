@@ -17,7 +17,7 @@ const flashcards = [
 	},
 	{
 		question: "O que são tipos primitivos em JavaScript?",
-		answer: "Os tipos primitivos em JavaScript são: String, Number, Boolean, Null, Undefined, BigInt e Symbol. Eles representam valores imutáveis e não são objetos."
+		answer: "Os tipos primitivos em JavaScript são String, Number, Boolean, Null, Undefined, BigInt e Symbol. Eles representam valores imutáveis e não são objetos."
 	},
 ];
 
